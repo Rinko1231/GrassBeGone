@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="GPLv3"
+
+[[mods]]
+modId="grassbegone"
+version="1.20.1-1.0.0"
+# logoFile="logo.png" #optional
+displayName="Grass Be Gone"
+authors="Rinko1231"
+description='''
+Lets you blacklist specific grass, flowers, and groundcover from world generation, with fine-tuned control and replacement options.
+'''
