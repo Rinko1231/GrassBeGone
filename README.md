@@ -1,11 +1,11 @@
-## 🌾 GrassBeGone - No More Annoying Ground Cover
+## 🌾 GrassBeGone - No More Annoying Grass
 
 Sometimes you find the perfect flat land to build your base—only to see it covered in grass everywhere. So you spend time breaking them one by one or flooding them with water, only to end up with a backpack full of unwanted seeds.
 
 **This mod is made for that exact pain.**  
 By default, it disables the generation of `minecraft:grass` (not including tall grass, so you can still obtain seeds the usual way).  
 You can also configure **GrassBeGone.toml** to blacklist the generation of specific plants—including those from other mods.  
-**It does not affect bonemeal use**—bonemeal can still grow grass and flowers as usual.
+**It does not affect bone meal use**—bone meal can still grow grass and flowers as usual.
 
 ---
 
