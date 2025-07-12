@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.rinko1231.grassbegone.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "grassbegone.refmap.json",
+  "mixins": [
+    "NoiseBasedStateProviderAccessor",
+    "NoiseThresholdProviderAccessor",
+    "NoRandomPatchBlacklistMixin",
+    "WeightedStateProviderAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
